@@ -158,17 +158,23 @@ Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 <h3><span class="yellow"><br>13:49バスが高速を降りた。細い道に入り駐車場で停車。<br>
 3人が乗車し、すぐに出発。地図でみるとブルージュ郊外。<br><br></span></h3>
 
-
+<a href="20240801_022.JPG" data-lightbox="abc"><img src="20240801_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_023.JPG" data-lightbox="abc"><img src="20240801_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_024.JPG" data-lightbox="abc"><img src="20240801_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_025.JPG" data-lightbox="abc"><img src="20240801_025.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～高速に戻り、しばらく、こんな景色が続きます～～～<br><br></span></h3>
 
-
+<a href="20240801_026.JPG" data-lightbox="abc"><img src="20240801_026.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>15:24渋滞発生。ベーグの郊外。<br>
 路肩をゆっくりバックしながら渋滞注意を電光掲示板で促す小型車がいた。<br>
 インターチェンジがあるので自然渋滞と思われる。<br><br></span></h3>
 
-
+<a href="20240801_027.JPG" data-lightbox="abc"><img src="20240801_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_028.JPG" data-lightbox="abc"><img src="20240801_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_029.JPG" data-lightbox="abc"><img src="20240801_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_030.JPG" data-lightbox="abc"><img src="20240801_030.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>周りは相変わらず、こんな感じ<br>
 北海道と同じ<br>
