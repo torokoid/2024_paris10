@@ -101,7 +101,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h2><span class="yellow"><marquee behavior="left">!!! 男女ともにグループステージ突破。明日からリヨンにいきます !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! オリンピックサッカー選手の試合に合わせてリヨンに移動 !!!</marquee></span></h2>
 <!--
 <div id="wrap">
 -->
@@ -117,18 +117,26 @@ background-color: rgba(0, 225, 0, 0.6);
 Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 地元フランス人で満席<br><br></span></h3>
 
-
+<a href="20240801_001.JPG" data-lightbox="abc"><img src="20240801_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_002.JPG" data-lightbox="abc"><img src="20240801_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_003.JPG" data-lightbox="abc"><img src="20240801_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_004.JPG" data-lightbox="abc"><img src="20240801_004.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>9:50最初の停車。地図で見るとアンジェ。<br>
 8人くらい下車。若い客が乗車。フランスはどこにいっても街並みがいい。<br>
 お城の横を通った。しらべたら、アンジェ城。世界遺産の一部<br><br></span></h3>
 
-
+<a href="20240801_005.JPG" data-lightbox="abc"><img src="20240801_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_006.JPG" data-lightbox="abc"><img src="20240801_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_007.JPG" data-lightbox="abc"><img src="20240801_007.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>11:20大きな街トゥールに到着。駅前の狭い道の先で10人以上が下車。<br>
 同じくらい新しい客が乗せてすぐに出発。<br><br></span></h3>
 
-
+<a href="20240801_008.JPG" data-lightbox="abc"><img src="20240801_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_009.JPG" data-lightbox="abc"><img src="20240801_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_010.JPG" data-lightbox="abc"><img src="20240801_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_011.JPG" data-lightbox="abc"><img src="20240801_011.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>12:20高速サービスエリアで停車<br>
 運転手がフランス語で客に説明<br>
