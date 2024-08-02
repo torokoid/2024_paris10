@@ -182,7 +182,9 @@ Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 16:20高速から降り、細い道を進む。住宅地内のバス専用駐車場到着。<br>
 10人くらい客が入れ替わった。リヨンまで2時間10分<br><br></span></h3>
 
-
+<a href="20240801_031.JPG" data-lightbox="abc"><img src="20240801_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_032.JPG" data-lightbox="abc"><img src="20240801_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_033.JPG" data-lightbox="abc"><img src="20240801_033.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>17:05高速出口から出ると直ぐに停車。<br>
 一人降りて二人乗車。<br>
@@ -190,12 +192,15 @@ Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 
 運転手が変わっていた<br><br></span></h3>
 
-
-
+<a href="20240801_034.JPG" data-lightbox="abc"><img src="20240801_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_035.JPG" data-lightbox="abc"><img src="20240801_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_036.JPG" data-lightbox="abc"><img src="20240801_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_037.JPG" data-lightbox="abc"><img src="20240801_037.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～リヨン向かって一直線～～～<br><br></span></h3>
 
-
+<a href="20240801_038.JPG" data-lightbox="abc"><img src="20240801_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_039.JPG" data-lightbox="abc"><img src="20240801_039.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>このバスはGrenoble行き<br>
 最後の1時間は峠越え<br>
