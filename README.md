@@ -41,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/2024_paris10/20240801_064.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/2024_paris10/20240801_000.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -206,17 +206,23 @@ Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 最後の1時間は峠越え<br>
 高速からリヨンの街に入るトンネルで少しだけ渋滞<br><br></span></h3>
 
-
-
+<a href="20240801_040.JPG" data-lightbox="abc"><img src="20240801_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_041.JPG" data-lightbox="abc"><img src="20240801_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_042.JPG" data-lightbox="abc"><img src="20240801_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_043.JPG" data-lightbox="abc"><img src="20240801_043.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>リヨン到着。鉄道駅とパリ停は同じビル。<br>
-  ガード下にはホームレス。<br>
-  フランスのホームレスは山岳用テントで暮らしている<br><br></span></h3>
+ガード下にはホームレス。<br>
+フランスのホームレスは山岳用テントで暮らしている<br><br></span></h3>
 
-
-
+<a href="20240801_044.JPG" data-lightbox="abc"><img src="20240801_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_045.JPG" data-lightbox="abc"><img src="20240801_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_046.JPG" data-lightbox="abc"><img src="20240801_046.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～今日はホテルの部屋で缶ビール～～～<br><br></span></h3>
+
+<a href="20240801_047.JPG" data-lightbox="abc"><img src="20240801_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_048.JPG" data-lightbox="abc"><img src="20240801_048.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
