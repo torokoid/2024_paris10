@@ -144,7 +144,16 @@ Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 隣の席のロン毛若者に英語で話せますか？Little<br>
 25分停車するらしい。<br><br></span></h3>
 
-
+<a href="20240801_012.JPG" data-lightbox="abc"><img src="20240801_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_013.JPG" data-lightbox="abc"><img src="20240801_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_014.JPG" data-lightbox="abc"><img src="20240801_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_015.JPG" data-lightbox="abc"><img src="20240801_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_016.JPG" data-lightbox="abc"><img src="20240801_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_017.JPG" data-lightbox="abc"><img src="20240801_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_018.JPG" data-lightbox="abc"><img src="20240801_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_019.JPG" data-lightbox="abc"><img src="20240801_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_020.JPG" data-lightbox="abc"><img src="20240801_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240801_021.JPG" data-lightbox="abc"><img src="20240801_021.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>13:49バスが高速を降りた。細い道に入り駐車場で停車。<br>
 3人が乗車し、すぐに出発。地図でみるとブルージュ郊外。<br><br></span></h3>
