@@ -211,7 +211,7 @@ Nantes8:30発Lyon18:55着のFlix Busに乗車。<br>
 <a href="20240801_042.JPG" data-lightbox="abc"><img src="20240801_042.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240801_043.JPG" data-lightbox="abc"><img src="20240801_043.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>リヨン到着。鉄道駅とパリ停は同じビル。<br>
+<h3><span class="yellow"><br>リヨン到着。鉄道駅とバス停は同じビル。<br>
 ガード下にはホームレス。<br>
 フランスのホームレスは山岳用テントで暮らしている<br><br></span></h3>
 
